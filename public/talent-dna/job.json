@@ -1,0 +1,154 @@
+[
+    {
+        "f_id": "1",
+        "f_levelwork_desc": "System Analys"
+    },
+    {
+        "f_id": "2",
+        "f_levelwork_desc": "Programmer"
+    },
+    {
+        "f_id": "3",
+        "f_levelwork_desc": "Web Designer"
+    },
+    {
+        "f_id": "4",
+        "f_levelwork_desc": "Web Programmer"
+    },
+    {
+        "f_id": "5",
+        "f_levelwork_desc": "Technical Engineer"
+    },
+    {
+        "f_id": "6",
+        "f_levelwork_desc": "Network Engineer"
+    },
+    {
+        "f_id": "7",
+        "f_levelwork_desc": "EDP Operator"
+    },
+    {
+        "f_id": "8",
+        "f_levelwork_desc": "System Administrator"
+    },
+    {
+        "f_id": "9",
+        "f_levelwork_desc": "MIS Director"
+    },
+    {
+        "f_id": "10",
+        "f_levelwork_desc": "IT Business Development"
+    },
+    {
+        "f_id": "11",
+        "f_levelwork_desc": " Kepala Sekolah"
+    },
+    {
+        "f_id": "12",
+        "f_levelwork_desc": " Rektor"
+    },
+    {
+        "f_id": "13",
+        "f_levelwork_desc": " Tata Usaha"
+    },
+    {
+        "f_id": "14",
+        "f_levelwork_desc": " Pustakawan"
+    },
+    {
+        "f_id": "15",
+        "f_levelwork_desc": " Guru"
+    },
+    {
+        "f_id": "16",
+        "f_levelwork_desc": " Dosen"
+    },
+    {
+        "f_id": "17",
+        "f_levelwork_desc": " Konselor"
+    },
+    {
+        "f_id": "18",
+        "f_levelwork_desc": " Tutor"
+    },
+    {
+        "f_id": "19",
+        "f_levelwork_desc": " Pengacara / Advokat"
+    },
+    {
+        "f_id": "20",
+        "f_levelwork_desc": " Hakim"
+    },
+    {
+        "f_id": "21",
+        "f_levelwork_desc": " Jaksa"
+    },
+    {
+        "f_id": "22",
+        "f_levelwork_desc": " Notaris"
+    },
+    {
+        "f_id": "23",
+        "f_levelwork_desc": " Konsultan Ekonomi"
+    },
+    {
+        "f_id": "24",
+        "f_levelwork_desc": " Analisis Kredit"
+    },
+    {
+        "f_id": "25",
+        "f_levelwork_desc": " Teller Bank"
+    },
+    {
+        "f_id": "26",
+        "f_levelwork_desc": " Manajer Kompensasi"
+    },
+    {
+        "f_id": "27",
+        "f_levelwork_desc": " Artis"
+    },
+    {
+        "f_id": "28",
+        "f_levelwork_desc": " Desainer Grafis"
+    },
+    {
+        "f_id": "29",
+        "f_levelwork_desc": " Animator"
+    },
+    {
+        "f_id": "30",
+        "f_levelwork_desc": " Penulis"
+    },
+    {
+        "f_id": "31",
+        "f_levelwork_desc": " Quality Control Engineer"
+    },
+    {
+        "f_id": "32",
+        "f_levelwork_desc": " Data Engineer"
+    },
+    {
+        "f_id": "33",
+        "f_levelwork_desc": " Project Manager"
+    },
+    {
+        "f_id": "34",
+        "f_levelwork_desc": " Ahli Gizi"
+    },
+    {
+        "f_id": "35",
+        "f_levelwork_desc": " Fisioterapis"
+    },
+    {
+        "f_id": "36",
+        "f_levelwork_desc": " Bidan"
+    },
+    {
+        "f_id": "37",
+        "f_levelwork_desc": " Apoteker"
+    },
+    {
+        "f_id": "38",
+        "f_levelwork_desc": "Lainnya"
+    }
+]

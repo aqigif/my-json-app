@@ -1,0 +1,32 @@
+[
+    {
+        "f_country_id": "6",
+        "f_country_name": "Albania",
+        "f_country_code": "AL",
+        "f_country_phone": "355"
+    },
+    {
+        "f_country_id": "7",
+        "f_country_name": "Armenia",
+        "f_country_code": "AM",
+        "f_country_phone": "374"
+    },
+    {
+        "f_country_id": "8",
+        "f_country_name": "Netherlands Antilles",
+        "f_country_code": "AN",
+        "f_country_phone": "599"
+    },
+    {
+        "f_country_id": "9",
+        "f_country_name": "Angola",
+        "f_country_code": "AO",
+        "f_country_phone": "244"
+    },
+    {
+        "f_country_id": "10",
+        "f_country_name": "Antarctica",
+        "f_country_code": "AQ",
+        "f_country_phone": "0"
+    }
+]
